@@ -7,3 +7,6 @@ data/
 save_model_en/
 save_model_fr/
 vr_save_model_fr/
+BERT_fr/
+txt.txt/
+save_model/
